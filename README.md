@@ -2,7 +2,7 @@
 
 User equilibrium is a classical problem on the traffic flow assignment in the field of Transportation Engineering, its main idea is: Every driver cannot reduce his travel time by unilaterally change his travel route.
 
-## THEORY OF USER EQUILIBRIUM SOLUTION
+## THEORY OF USER EQUILIBRIUM SOLUT
 
 Please refer to [User-Equilibrium-Solution.pdf](static/user-equilibrium-solution.pdf). 
 
